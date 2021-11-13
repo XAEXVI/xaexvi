@@ -1,7 +1,5 @@
 ### こんにちは、私のプロフィールへようこそ
 
-![01IO009T2-full](https://user-images.githubusercontent.com/93232479/141602009-c1c1a5a2-a421-4852-8375-06dc57393f82.png)
-
 <div align="center">
   <a href="https://github.com/XAEXVI">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=XAEXVI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
