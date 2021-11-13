@@ -1,7 +1,6 @@
 ### こんにちは、私のプロフィールへようこそ
 
-   ![the-beast-inside--taegi-19074753-210420201338](https://user-images.githubusercontent.com/93232479/140808225-a04bc407-61ef-4d25-b434-ca293319868d.gif)
-
+![01IO009T2-full](https://user-images.githubusercontent.com/93232479/141602009-c1c1a5a2-a421-4852-8375-06dc57393f82.png)
 
 <div align="center">
   <a href="https://github.com/XAEXVI">
